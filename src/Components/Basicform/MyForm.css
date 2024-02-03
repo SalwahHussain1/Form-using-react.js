@@ -1,0 +1,79 @@
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+  }
+
+
+
+form {
+    
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 100px;
+    border: 1px solid #0000;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #d3d3d3;
+  
+
+  }
+  h1{
+    font-style: oblique;
+    font-size: 40px;
+    margin-top: 1px;
+    padding: auto;
+  }
+  div {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 90%;
+  }
+  
+  input,
+  select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+  }
+  
+  input[type="checkbox"] {
+    width: auto;
+  }
+  
+  input[type="radio"] {
+    width: auto;
+  }
+  
+/* styles.css */
+
+/* ... (previous styles) */
+
+button {
+    padding: 15px;
+    background-color: #FF0000;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  
+  
+  
